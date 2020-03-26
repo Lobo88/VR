@@ -65,7 +65,10 @@
   <ItemGroup>
     <Compile Include="Assets\BaseAi.cs" />
     <Compile Include="Assets\CelReaktywny.cs" />
+    <Compile Include="Assets\DaneGracza.cs" />
+    <Compile Include="Assets\Fireball.cs" />
     <Compile Include="Assets\Keyboard.cs" />
+    <Compile Include="Assets\Kontroler.cs" />
     <Compile Include="Assets\Mouse.cs" />
     <Compile Include="Assets\Move.cs" />
     <Compile Include="Assets\Radius.cs" />
